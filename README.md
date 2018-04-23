@@ -4,12 +4,16 @@ The Mobile Web Specialist Nanodegree program is comprised of advanced web develo
 
 <!-- toc -->
 
-- [Building Accessible and Responsive Web Apps](#heading)
+- [Part1 Building Accessible and Responsive Web Apps](#heading)
   * [3 Courses and 1 Project](#3courses-and-1project)
     + [1.Responsive Web Design Fundamentals](#1responsive-web-design-fundamentals)
     + [2.Responsive Images](#2responsive-images)
     + [3.Web Accessibility](#3web-accessibility)
     + [4.Project: Restaurant Reviews App—Stage One](#4project-restaurant-reviews-app—stage-one)
+
+- [Part2 Building Offline Capable Web Apps](#part2-building-offline-capable-web-apps)
+ * [1.Asynchronous JavaScript Requests](#1asynchronous-javascript-request)
+  + [2.ES6 JavaScript Improved]()
     
 ## Part1 :   Building   Accessible   and   Responsive   Web   Apps
 
@@ -34,19 +38,19 @@ The Mobile Web Specialist Nanodegree program is comprised of advanced web develo
 
 ### Part 2: Building Offline Capable Web Apps
 
-#### Asynchronous JavaScript Requests
+#### 1. Asynchronous JavaScript Requests
 
 ➔ This   course   covers   everything   a   developer   needs   to   know   to asynchronously   send   and   receive   data   in   their   web   applications. You'll   dive   into   how   asynchronous   requests   work   by   using   the XHR   object   to   create   and   send   asynchronous   requests   for   image and   news   article   data.   Then,   you'll   see   how   you   can   perform async   requests   more   easily   using   third-party   libraries   and   APIs like   jQuery's   Ajax   and   the   Fetch   API.
 
-#### ES6 JavaScript Improved
+#### 2. ES6 JavaScript Improved
 
 ➔ ECMAScript   6,   or   ES6,   has   brought   about   a   ton   of   changes   to   the JavaScript   programming   language.   In   this   course,   you'll   explore those   changes   to   learn   about   the   latest   features   and improvements   to   the   language   including   new   keywords,   arrow functions,   the   Class   syntax,   Promises,   and   so   much   more. Discover   how   much   cleaner   and   more   concise   your   JavaScript code   can   be!
 
-#### Offline Web Applications
+#### 3. Offline Web Applications
 
 ➔ This   course   is   focused   squarely   on   user   experience,   and   seeks to   show   developers   how   thinking   offline-first   is   the   best   way   to ensure   that   applications   perform   their   best   in   all   scenarios,   not just   ideal   ones.   You'll   learn   to   recognize   the   differences   between good,   poor,   intermittent,   and   missing   connectivity   for   your users,   and   master   how   to   make   applications   that   navigate   these conditions   with   ease.
 
-#### Web Tooling and Automation
+#### 4. Web Tooling and Automation
 
 ➔ In   this   course,   you’ll   learn   how   to   setup   your   development,   get super   productive   during   daily   work   and   iteration,   prevent yourself   and   your   site   from   disasters   and   save   a   lot   of   time   and effort   with   automatic   optimization   and   automation.   Finally,   you’ll learn   how   to   do   all   this   while   being   confident   your   code   runs   on a   multitude   of   devices   in   the   real   world.
 
@@ -56,12 +60,12 @@ In   this   Nanodegree   program,   you   will   build   a   Restaurant   Review
 
 ### Part 3: Building Performant Web Apps
 
-#### Client Server Communication
+#### 1. Client Server Communication
 
 ➔ We   use   websites   all   the   time,   but   how   does   clicking   a   link   in   your browser   or   typing   in   a   URL   in   the   address   bar   get   you   to   a website?   How   does   the   server   know   what   information   you're looking   for   or   how   to   send   you   that   information   once   it's   figured that   out?   How   can   you   protect   your   users   from   attackers?
 ➔ This   course   will   guide   you   through   how   a   client   communicates with   a   server.   You'll   learn   about   HTTP's   request   and   response cycle,   dig   into   HTTP   headers   and   verbs,   distinguish   HTTP/1   from HTTP/2   capabilities,   all   while   experiencing   the   importance   of security   by   digging   into   the   details   of   HTTPS.   Throughout   the course,   you'll   learn   both   security   best   practices,   as   well   as   ways to   improve   the   performance   of   your   web   apps.   We'll   provide you   with   handcrafted   servers   where   you'll   diagnose   problematic server   setups,   issues   with   SSL   certificates,   and   even   have   a chance   to   hack   an   example   bank   website   to   transfer   funds.
 
-#### Browser Rendering Optimization
+#### 2. Browser Rendering Optimization
 
 ➔ Performance   matters   to   users.   Web   developers   need   to   build apps   that   react   quickly   and   render   smoothly.
 ➔ Google   performance   guru   Paul   Lewis   is   here   to   help   you   destroy jank   and   create   web   apps   that   maintain   60   frames   per   second performance.
