@@ -2,23 +2,6 @@
 
 The Mobile Web Specialist Nanodegree program is comprised of advanced web development curriculum organized into three parts and three projects. Each project you build will be an opportunity to demonstrate what you’ve learned. Your completed projects become part of a career portfolio that will demonstrate your mastery of mobile web development.
 
-## Heading
-
-- [Heading](#heading)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
-
-
-# Heading levels
-
-> This is a fixture to test heading levels
-
 <!-- toc -->
 
 - [Building Accessible and Responsive Web Apps](#heading)
