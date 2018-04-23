@@ -12,18 +12,18 @@ The Mobile Web Specialist Nanodegree program is comprised of advanced web develo
     + [4.Project: Restaurant Reviews App—Stage One](#4project-restaurant-reviews-app—stage-one)
 
 - [Part2 Building Offline Capable Web Apps](#part2-building-offline-capable-web-apps)
-  * [4 Courses and 1 Project](#4courses-and-1project)
+  * [4 Courses and 1 Project](#4-courses-and-1project)
     + [1.Asynchronous JavaScript Requests](#1-asynchronous-javascript-requests)
     + [2.ES6 JavaScript Improved](#2-es6-javascript-improved)
     + [3. Offline Web Applications](#3-offline-web-applications)
     + [4.Web Tooling and Automation](#4-web-tooling-and-automation)
     + [5.Project 2: Restaurant Reviews App Stage Two](#5-project-2-restaurant-review-app-stage-two)
     
-- [Part3 Building Performant Web Apps](#part3-building-performant-web-apps)
-  * [2 Courses and 1 Project](#3courses-and-1project)
-    + [1.Client Server Communication](#1client-server-communication)
-    + [2.Browser Rendering Optimization](#2browser-rendering-optimization)
-    + [3.Project: Restaurant Reviews App—Stage Three](#project-restaurant-reviews-app-stage-three)
+- [Part3 Building Performant Web Apps](#part-3-building-performant-web-apps)
+  * [2 Courses and 1 Project](#3-courses-and-1project)
+    + [1.Client Server Communication](#1-client-server-communication)
+    + [2.Browser Rendering Optimization](#2-browser-rendering-optimization)
+    + [3.Project: Restaurant Reviews App—Stage Three](#3-project-restaurant-reviews-app-stage-three)
 
 
 ## Part1 :   Building   Accessible   and   Responsive   Web   Apps
