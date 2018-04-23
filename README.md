@@ -12,9 +12,20 @@ The Mobile Web Specialist Nanodegree program is comprised of advanced web develo
     + [4.Project: Restaurant Reviews App—Stage One](#4project-restaurant-reviews-app—stage-one)
 
 - [Part2 Building Offline Capable Web Apps](#part2-building-offline-capable-web-apps)
- * [1.Asynchronous JavaScript Requests](#1asynchronous-javascript-request)
-  + [2.ES6 JavaScript Improved]()
+  * [4 Courses and 1 Project](#4courses-and-1project)
+    + [1.Asynchronous JavaScript Requests](#1asynchronous-javascript-request)
+    + [2.ES6 JavaScript Improved](#2es6-javascript-improved)
+    + [3. Offline Web Applications](#3offline-web-applications)
+    + [4.Web Tooling and Automation](#4web-tooling-and-automation)
+    + [5.Project 2: Restaurant Reviews App Stage Two](#project2-restaurant-review-app-stage-two)
     
+- [Part3 Building Performant Web Apps](#part3-building-performant-web-apps)
+  * [2 Courses and 1 Project](#3courses-and-1project)
+    + [1.Client Server Communication](#1client-server-communication)
+    + [2.Browser Rendering Optimization](#2browser-rendering-optimization)
+    + [3.Project: Restaurant Reviews App—Stage Three](#project-restaurant-reviews-app-stage-three)
+
+
 ## Part1 :   Building   Accessible   and   Responsive   Web   Apps
 
 ### 3 Courses and 1 Project
@@ -38,6 +49,8 @@ The Mobile Web Specialist Nanodegree program is comprised of advanced web develo
 
 ### Part 2: Building Offline Capable Web Apps
 
+### 4 Courses and 1 Project
+
 #### 1. Asynchronous JavaScript Requests
 
 ➔ This   course   covers   everything   a   developer   needs   to   know   to asynchronously   send   and   receive   data   in   their   web   applications. You'll   dive   into   how   asynchronous   requests   work   by   using   the XHR   object   to   create   and   send   asynchronous   requests   for   image and   news   article   data.   Then,   you'll   see   how   you   can   perform async   requests   more   easily   using   third-party   libraries   and   APIs like   jQuery's   Ajax   and   the   Fetch   API.
@@ -54,11 +67,13 @@ The Mobile Web Specialist Nanodegree program is comprised of advanced web develo
 
 ➔ In   this   course,   you’ll   learn   how   to   setup   your   development,   get super   productive   during   daily   work   and   iteration,   prevent yourself   and   your   site   from   disasters   and   save   a   lot   of   time   and effort   with   automatic   optimization   and   automation.   Finally,   you’ll learn   how   to   do   all   this   while   being   confident   your   code   runs   on a   multitude   of   devices   in   the   real   world.
 
-#### Project 2: Restaurant Reviews App Stage Two
+#### 5. Project 2: Restaurant Reviews App Stage Two
 
 In   this   Nanodegree   program,   you   will   build   a   Restaurant   Reviews   App.   To   do   this,   you   will   incrementally convert   a   static   webpage   to   a   mobile-ready   web   application   in   three   stages.   In   Stage   Two,   you   will   be   given   a back-end   server   and   the   code   from   Stage   One   and   add   the   ability   to   read   JSON   from   the   server   and   display this   data   in   the   app,   store   data   in   a   database   for   offline   use,   and   meet   a   site   performance   target.
 
 ### Part 3: Building Performant Web Apps
+
+### 2 Courses and 1 Project
 
 #### 1. Client Server Communication
 
@@ -71,7 +86,7 @@ In   this   Nanodegree   program,   you   will   build   a   Restaurant   Review
 ➔ Google   performance   guru   Paul   Lewis   is   here   to   help   you   destroy jank   and   create   web   apps   that   maintain   60   frames   per   second performance.
 ➔ You'll   leave   this   course   with   the   tools   you   need   to   profile   apps and   identify   the   causes   of   jank.   You'll   explore   the   browser's rendering   pipeline   and   uncover   patterns   that   make   it   easy   to build   performant   apps.
 
-#### Project: Restaurant Reviews App—Stage Three
+#### 3. Project: Restaurant Reviews App Stage Three
 
 In   this   Nanodegree   program,   you   will   build   a   Restaurant   Reviews   App.   To   do   this,   you   will   incrementally convert   a   static   webpage   to   a   mobile-ready   web   application   in   three   stages.   In   the   final   stage,   Stage   Three, you   will   advance   the   project   from   Stage   Two.   You   will   implement   login   and   review   submission   logic   on   the client   side,   add   search   capability   to   the   database   so   that   users   can   store   and   look   at   reviews,   and   leverage offline   capabilities   so   that   users   will   be   able   write   a   review   offline   or   mark   a   review   or   restaurant   as   a favorite   while   offline,   defer   it,   and   have   it   sent   to   the   server   when   it's   back   online.
 
