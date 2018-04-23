@@ -13,11 +13,11 @@ The Mobile Web Specialist Nanodegree program is comprised of advanced web develo
 
 - [Part2 Building Offline Capable Web Apps](#part2-building-offline-capable-web-apps)
   * [4 Courses and 1 Project](#4courses-and-1project)
-    + [1.Asynchronous JavaScript Requests](#1asynchronous-javascript-request)
-    + [2.ES6 JavaScript Improved](#2es6-javascript-improved)
-    + [3. Offline Web Applications](#3offline-web-applications)
-    + [4.Web Tooling and Automation](#4web-tooling-and-automation)
-    + [5.Project 2: Restaurant Reviews App Stage Two](#project2-restaurant-review-app-stage-two)
+    + [1.Asynchronous JavaScript Requests](#1-asynchronous-javascript-request)
+    + [2.ES6 JavaScript Improved](#2-es6-javascript-improved)
+    + [3. Offline Web Applications](#3-offline-web-applications)
+    + [4.Web Tooling and Automation](#4-web-tooling-and-automation)
+    + [5.Project 2: Restaurant Reviews App Stage Two](#5-project2-restaurant-review-app-stage-two)
     
 - [Part3 Building Performant Web Apps](#part3-building-performant-web-apps)
   * [2 Courses and 1 Project](#3courses-and-1project)
