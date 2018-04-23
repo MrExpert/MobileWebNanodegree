@@ -2,11 +2,18 @@
 
 The Mobile Web Specialist Nanodegree program is comprised of advanced web development curriculum organized into three parts and three projects. Each project you build will be an opportunity to demonstrate what you’ve learned. Your completed projects become part of a career portfolio that will demonstrate your mastery of mobile web development.
 
-- [Heading](#part-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
+- [Heading](#part1)
+  * [Sub-heading](#3-Course-and-1-project)
+    + [Sub-sub-heading](#1-Responsive-Web-Design-Fundamentals)
+    + [Sub-sub-heading](#2-Responsive-Images)
+    + [Sub-sub-heading](#3-Web-Accessibility)
+    + [Sub-sub-heading](#Project-Restaurant-Reviews-App—Stage-One)
 
-## Part   1:   Building   Accessible   and   Responsive   Web   Apps
+    
+    Project:   Restaurant   Reviews   App—Stage   One
+
+
+## Part1 :   Building   Accessible   and   Responsive   Web   Apps
 
 ### 3 Courses and 1 Project
 ### 1.Responsive   Web   Design Fundamentals
