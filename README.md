@@ -8,7 +8,7 @@ The Mobile Web Specialist Nanodegree program is comprised of advanced web develo
   * [3 Courses and 1 Project](#sub-heading)
     + [1.Responsive Web Design Fundamentals](#sub-sub-heading)
     + [2.Responsive Images](#sub-sub-heading-1)
-    + [3.Web Accessibility](#sub-sub-heading-2)
+    + [3.Web Accessibility](#3web-accessibility)
     + [4.Project: Restaurant Reviews App—Stage One](#sub-sub-heading-3)
     
 ## Part1 :   Building   Accessible   and   Responsive   Web   Apps
@@ -24,7 +24,7 @@ The Mobile Web Specialist Nanodegree program is comprised of advanced web develo
 ➔ In   this   course   you   will   learn   how   to   work   with   images   on   the modern   web,   so   that   your   images   look   great   and   load   quickly   on any   device.
 ➔ Along   the   way,   you   will   pick   up   a   range   of   skills   and   techniques to   smoothly   integrate   responsive   images   into   your   development workflow.   By   the   end   of   the   course,   you   will   be   developing   with images   that   adapt   and   respond   to   different   viewport   sizes   and usage   scenarios.
 
-#### 3.Web   Accessibility
+#### 3.Web Accessibility
 
 ➔ In   this   course   you’ll   get   hands-on   experience   making   web applications   accessible.   You’ll   understand   when   and   why   users need   accessibility.   Then   you’ll   dive   into   the   “how”:   making   a page   work   properly   with   screen   readers,   and   managing   input focus   (e.g.   the   highlight   you   see   when   tabbing   through   a   form.) You’ll   understand   what   “semantics”   and   “semantic   markup” mean   for   web   pages   and   add   ARIA   markup   to   enable   navigating the   interface   with   a   range   of   assistive   devices.   Finally,   you’ll learn   styling   techniques   that   help   users   with   partial   vision navigate   your   pages   easily   and   reliably.
 
