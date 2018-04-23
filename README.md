@@ -5,20 +5,20 @@ The Mobile Web Specialist Nanodegree program is comprised of advanced web develo
 <!-- toc -->
 
 - [Building Accessible and Responsive Web Apps](#heading)
-  * [3 Courses and 1 Project](#sub-heading)
-    + [1.Responsive Web Design Fundamentals](#sub-sub-heading)
-    + [2.Responsive Images](#sub-sub-heading-1)
+  * [3 Courses and 1 Project](#3courses-and-1project)
+    + [1.Responsive Web Design Fundamentals](#1Responsive-Web-Design-Fundamentals)
+    + [2.Responsive Images](#2Responsive-Images)
     + [3.Web Accessibility](#3web-accessibility)
-    + [4.Project: Restaurant Reviews App—Stage One](#sub-sub-heading-3)
+    + [4.Project: Restaurant Reviews App—Stage One](#4Project-Restaurant-Reviews-App—Stage-One)
     
 ## Part1 :   Building   Accessible   and   Responsive   Web   Apps
 
 ### 3 Courses and 1 Project
-#### 1.Responsive   Web   Design Fundamentals
+#### 1.Responsive Web Design Fundamentals
 ➔ In   this   course   you'll   learn   the   fundamentals   of   responsive   web design   with   Google's   Pete   LePage!   You'll   create   your   own responsive   web   page   that   works   well   on   any   device   -   phone, tablet,   desktop   or   anything   in   between.
 ➔ You’ll   start   by   exploring   what   makes   a   site   responsive   and   how some   common   responsive   design   patterns   work   across different   devices.   From   there,   you’ll   learn   how   to   create   your own   responsive   layout   using   the   viewport   tag   and   CSS   media queries.   As   you   proceed,   you’ll   experiment   with   major   and minor   breakpoints,   and   optimizing   text   for   reading.
 
-#### 2.Responsive   Images
+#### 2.Responsive Images
 
 ➔ Did   you   know   that   images   account   for   more   than   60%   of   the bytes   on   average   needed   to   load   a   web   page?
 ➔ In   this   course   you   will   learn   how   to   work   with   images   on   the modern   web,   so   that   your   images   look   great   and   load   quickly   on any   device.
