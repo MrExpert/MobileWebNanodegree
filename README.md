@@ -7,7 +7,7 @@ The Mobile Web Specialist Nanodegree program is comprised of advanced web develo
     + [Sub-sub-heading](#1-Responsive-Web-Design-Fundamentals)
     + [Sub-sub-heading](#2-Responsive-Images)
     + [Sub-sub-heading](#3-Web-Accessibility)
-    + [Sub-sub-heading](#Project-Restaurant-Reviews-App—Stage-One)
+    + [Sub-sub-heading](#4Project-Restaurant-Reviews-App—Stage-One)
 
     
     Project:   Restaurant   Reviews   App—Stage   One
