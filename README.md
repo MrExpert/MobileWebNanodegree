@@ -45,6 +45,24 @@ The Mobile Web Specialist Nanodegree program is comprised of advanced web develo
 
 In   this   Nanodegree   program,   you   will   build   a   Restaurant   Reviews   App.   To   do   this,   you   will   incrementally convert   a   static   webpage   to   a   mobile-ready   web   application   in   three   stages.   In   Stage   Two,   you   will   be   given   a back-end   server   and   the   code   from   Stage   One   and   add   the   ability   to   read   JSON   from   the   server   and   display this   data   in   the   app,   store   data   in   a   database   for   offline   use,   and   meet   a   site   performance   target.
 
+# Part   3:   Building   Performant   Web   Apps
+
+## Client   Server   Communication
+
+➔ We   use   websites   all   the   time,   but   how   does   clicking   a   link   in   your browser   or   typing   in   a   URL   in   the   address   bar   get   you   to   a website?   How   does   the   server   know   what   information   you're looking   for   or   how   to   send   you   that   information   once   it's   figured that   out?   How   can   you   protect   your   users   from   attackers?
+➔ This   course   will   guide   you   through   how   a   client   communicates with   a   server.   You'll   learn   about   HTTP's   request   and   response cycle,   dig   into   HTTP   headers   and   verbs,   distinguish   HTTP/1   from HTTP/2   capabilities,   all   while   experiencing   the   importance   of security   by   digging   into   the   details   of   HTTPS.   Throughout   the course,   you'll   learn   both   security   best   practices,   as   well   as   ways to   improve   the   performance   of   your   web   apps.   We'll   provide you   with   handcrafted   servers   where   you'll   diagnose   problematic server   setups,   issues   with   SSL   certificates,   and   even   have   a chance   to   hack   an   example   bank   website   to   transfer   funds.
+
+## Browser   Rendering   Optimization
+
+➔ Performance   matters   to   users.   Web   developers   need   to   build apps   that   react   quickly   and   render   smoothly.
+➔ Google   performance   guru   Paul   Lewis   is   here   to   help   you   destroy jank   and   create   web   apps   that   maintain   60   frames   per   second performance.
+➔ You'll   leave   this   course   with   the   tools   you   need   to   profile   apps and   identify   the   causes   of   jank.   You'll   explore   the   browser's rendering   pipeline   and   uncover   patterns   that   make   it   easy   to build   performant   apps.
+
+## Project:   Restaurant   Reviews   App—Stage   Three
+
+In   this   Nanodegree   program,   you   will   build   a   Restaurant   Reviews   App.   To   do   this,   you   will   incrementally convert   a   static   webpage   to   a   mobile-ready   web   application   in   three   stages.   In   the   final   stage,   Stage   Three, you   will   advance   the   project   from   Stage   Two.   You   will   implement   login   and   review   submission   logic   on   the client   side,   add   search   capability   to   the   database   so   that   users   can   store   and   look   at   reviews,   and   leverage offline   capabilities   so   that   users   will   be   able   write   a   review   offline   or   mark   a   review   or   restaurant   as   a favorite   while   offline,   defer   it,   and   have   it   sent   to   the   server   when   it's   back   online.
+
+
 
 
 
