@@ -20,7 +20,7 @@ The Mobile Web Specialist Nanodegree program is comprised of advanced web develo
     + [5.Project 2: Restaurant Reviews App Stage Two](#5-project-2-restaurant-review-app-stage-two)
     
 - [Part3 Building Performant Web Apps](#part-3-building-performant-web-apps)
-  * [2 Courses and 1 Project](#3-courses-and-1project)
+  * [2 Courses and 1 Project](#3-courses-and-1-project)
     + [1.Client Server Communication](#1-client-server-communication)
     + [2.Browser Rendering Optimization](#2-browser-rendering-optimization)
     + [3.Project: Restaurant Reviews App—Stage Three](#3-project-restaurant-reviews-app-stage-three)
