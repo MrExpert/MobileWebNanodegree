@@ -22,3 +22,29 @@ The Mobile Web Specialist Nanodegree program is comprised of advanced web develo
 ## Project:   Restaurant   Reviews   App—Stage   One
 
 ➔ In   this   Nanodegree   program,   you   will   build   a   Restaurant   Reviews   App.   To   do   this,   you   will   incrementally convert   a   static   webpage   to   a   mobile-ready   web   application   in   three   stages.   In   Stage   One,   you   will   take   a static   design   that   lacks   accessibility   and   convert   the   design   to   be   responsive   on   different   sized   displays   and accessible   for   screen   reader   use.
+
+# Part   2:   Building   Offline   Capable   Web   Apps
+
+## Asynchronous   JavaScript   Requests
+
+➔ This   course   covers   everything   a   developer   needs   to   know   to asynchronously   send   and   receive   data   in   their   web   applications. You'll   dive   into   how   asynchronous   requests   work   by   using   the XHR   object   to   create   and   send   asynchronous   requests   for   image and   news   article   data.   Then,   you'll   see   how   you   can   perform async   requests   more   easily   using   third-party   libraries   and   APIs like   jQuery's   Ajax   and   the   Fetch   API.
+
+## ES6   JavaScript   Improved
+
+➔ ECMAScript   6,   or   ES6,   has   brought   about   a   ton   of   changes   to   the JavaScript   programming   language.   In   this   course,   you'll   explore those   changes   to   learn   about   the   latest   features   and improvements   to   the   language   including   new   keywords,   arrow functions,   the   Class   syntax,   Promises,   and   so   much   more. Discover   how   much   cleaner   and   more   concise   your   JavaScript code   can   be!
+
+## Offline   Web   Applications
+
+➔ This   course   is   focused   squarely   on   user   experience,   and   seeks to   show   developers   how   thinking   offline-first   is   the   best   way   to ensure   that   applications   perform   their   best   in   all   scenarios,   not just   ideal   ones.   You'll   learn   to   recognize   the   differences   between good,   poor,   intermittent,   and   missing   connectivity   for   your users,   and   master   how   to   make   applications   that   navigate   these conditions   with   ease.
+
+## Web   Tooling   and   Automation
+
+➔ In   this   course,   you’ll   learn   how   to   setup   your   development,   get super   productive   during   daily   work   and   iteration,   prevent yourself   and   your   site   from   disasters   and   save   a   lot   of   time   and effort   with   automatic   optimization   and   automation.   Finally,   you’ll learn   how   to   do   all   this   while   being   confident   your   code   runs   on a   multitude   of   devices   in   the   real   world.
+
+## Project 2:   Restaurant   Reviews   App—Stage   Two
+
+In   this   Nanodegree   program,   you   will   build   a   Restaurant   Reviews   App.   To   do   this,   you   will   incrementally convert   a   static   webpage   to   a   mobile-ready   web   application   in   three   stages.   In   Stage   Two,   you   will   be   given   a back-end   server   and   the   code   from   Stage   One   and   add   the   ability   to   read   JSON   from   the   server   and   display this   data   in   the   app,   store   data   in   a   database   for   offline   use,   and   meet   a   site   performance   target.
+
+
+
+
